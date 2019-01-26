@@ -1,0 +1,37 @@
+#viewdrinkcontainer
+{
+    width: 100%;
+    height: 100%;
+}
+
+#bckhome
+{
+    margin-top: 2vh;
+    height: 36px;
+    margin-left: 2vw;
+}
+.drinkimage
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    margin-right: 2vh;
+}
+
+.drinktitle
+{
+    margin-top: 2vh;
+}
+
+.drinkdescr
+{
+    margin-top: 5vh;
+}
+
+.titlecontainer
+{
+    margin-top: 2vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

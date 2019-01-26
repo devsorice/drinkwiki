@@ -1,0 +1,5 @@
+<div id="bacheca" class="ui segment">
+   
+    <app-drinkbox *ngFor="let drink of drinkc[active]"   [drink]="drink" (onDrinkImgClick)="viewdrink($event)">
+    </app-drinkbox>
+</div>

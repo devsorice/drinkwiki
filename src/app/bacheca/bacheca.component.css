@@ -1,0 +1,15 @@
+#bacheca
+{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    height: fit-content;
+}
+
+app-drinkbox
+{
+    flex-basis: 25%;
+}

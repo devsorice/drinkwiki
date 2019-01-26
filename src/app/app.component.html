@@ -1,0 +1,21 @@
+<div id="listadrink">
+    <app-navbar  [active]="active" (onActiveChange)="setactive($event)">
+    </app-navbar>
+
+    <app-descrizione>
+    </app-descrizione>
+
+
+    <app-bacheca [active]="active" (onViewDrink)="viewdrink($event)">
+    </app-bacheca>
+
+    <app-footer>
+    </app-footer>
+</div>
+
+
+<app-viewdrink id="viewdrink"  (bckhome)="listdrink()" [iddrink]="viewingdrink">
+</app-viewdrink>
+
+
+

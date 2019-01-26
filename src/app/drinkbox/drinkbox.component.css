@@ -1,0 +1,221 @@
+.drinkbox
+{
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
+.drinkicon
+{
+    background-image: url("/assets/img/cocktail.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 10vh;
+    height: 10vh;
+    margin: 0 auto;
+    cursor: pointer;
+    background-color: none;
+
+}
+
+
+
+
+
+.drinkicon:hover
+{
+    background-color: #ffa6bfcc;
+}
+
+
+.drinktitle
+{
+    margin: 1vh auto;
+    text-align: center;
+}
+
+ 
+
+
+/* Dejan */
+
+.cbutton--effect-dejan::after {
+	margin: -4px 0 0 -4px;
+	width: 8px;
+	height: 8px;
+}
+
+.cbutton--box-color-4.cbutton--effect-dejan::after {
+	background: #f2438c;
+}
+
+.cbutton--box-color-5.cbutton--effect-dejan::after {
+	background: #ff6414;
+}
+
+.cbutton--box-color-6.cbutton--effect-dejan::after {
+	background: #5ed500;
+}
+
+.cbutton--effect-dejan .cbutton__helper {
+	position: absolute;
+	bottom: 0;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.cbutton--effect-dejan .cbutton__helper--first {
+	left: -15px;
+	width: 30px;
+	height: 30px;
+	-webkit-transform-origin: -40% 50%;
+	transform-origin: -40% 50%;
+}
+
+.cbutton--effect-dejan .cbutton__helper--second {
+	left: 0px;
+	width: 30px;
+	height: 60px;
+	-webkit-transform-origin: 140% 50%;
+	transform-origin: 140% 50%;
+}
+
+.cbutton--effect-dejan .cbutton__helper img {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.cbutton--effect-dejan.cbutton--click .cbutton__helper--first {
+	-webkit-animation: anim-effect-dejan-1 0.3s ease-out forwards;
+	animation: anim-effect-dejan-1 0.3s ease-out forwards;
+}
+
+.cbutton--effect-dejan.cbutton--click .cbutton__helper--second {
+	-webkit-animation: anim-effect-dejan-2 0.3s ease-out forwards;
+	animation: anim-effect-dejan-2 0.3s ease-out forwards;
+}
+
+.cbutton--effect-dejan.cbutton--click .cbutton__helper--first img,
+.cbutton--effect-dejan.cbutton--click .cbutton__helper--second img {
+	-webkit-animation: anim-effect-dejan-3 0.3s ease-in forwards;
+	animation: anim-effect-dejan-3 0.3s ease-in forwards;
+}
+
+.cbutton--effect-dejan.cbutton--click::after {
+	-webkit-animation: anim-effect-dejan-4 0.3s ease-out forwards;
+	animation: anim-effect-dejan-4 0.3s ease-out forwards;
+}
+
+@-webkit-keyframes anim-effect-dejan-1 {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: rotate3d(0, 0, 1, -90deg);
+		transform: rotate3d(0, 0, 1, -90deg);
+	}
+}
+
+@keyframes anim-effect-dejan-1 {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: rotate3d(0, 0, 1, -90deg);
+		transform: rotate3d(0, 0, 1, -90deg);
+	}
+}
+
+@-webkit-keyframes anim-effect-dejan-2 {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: rotate3d(0, 0, 1, 90deg);
+		transform: rotate3d(0, 0, 1, 90deg);
+	}
+}
+
+@keyframes anim-effect-dejan-2 {
+	0% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: rotate3d(0, 0, 1, 90deg);
+		transform: rotate3d(0, 0, 1, 90deg);
+	}
+}
+
+@-webkit-keyframes anim-effect-dejan-3 {
+	0% {
+		-webkit-transform: scale3d(0.4, 0.4, 1);
+		transform: scale3d(0.4, 0.4, 1);
+	}
+	50% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+		-webkit-animation-timing-function: ease-out;
+		animation-timing-function: ease-out;
+	}
+	100% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+	}
+}
+
+@keyframes anim-effect-dejan-3 {
+	0% {
+		-webkit-transform: scale3d(0.4, 0.4, 1);
+		transform: scale3d(0.4, 0.4, 1);
+	}
+	50% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+		-webkit-animation-timing-function: ease-out;
+		animation-timing-function: ease-out;
+	}
+	100% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1);
+	}
+}
+
+@-webkit-keyframes anim-effect-dejan-4 {
+	0% {
+		opacity: 1;
+		-webkit-transform: scale3d(0.1, 0.1, 1);
+		transform: scale3d(0.1, 0.1, 1);
+	}
+	80% {
+		opacity: 0.7;
+		-webkit-transform: translate3d(0, -70px, 0) scale3d(1, 1, 1);
+		transform: translate3d(0, -70px, 0) scale3d(1, 1, 1);
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: translate3d(0, -60px, 0) scale3d(1, 1, 1);
+		transform: translate3d(0, -60px, 0) scale3d(1, 1, 1);
+	}
+}
+
+@keyframes anim-effect-dejan-4 {
+	0% {
+		opacity: 1;
+		-webkit-transform: scale3d(0.1, 0.1, 1);
+		transform: scale3d(0.1, 0.1, 1);
+	}
+	80% {
+		opacity: 0.7;
+		-webkit-transform: translate3d(0, -70px, 0) scale3d(1, 1, 1);
+		transform: translate3d(0, -70px, 0) scale3d(1, 1, 1);
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: translate3d(0, -60px, 0) scale3d(1, 1, 1);
+		transform: translate3d(0, -60px, 0) scale3d(1, 1, 1);
+	}
+}

@@ -1,0 +1,28 @@
+<div id="viewdrinkcontainer">
+
+   
+
+
+  <div class="titlecontainer" >
+
+      <div id="bckhome"  (click)="backhome()" class="ui animated button" tabindex="0">
+          <div class="visible content">Indietro</div>
+          <div class="hidden content">
+            <i class="arrow left icon"></i>
+          </div>
+      </div>
+
+      <div class="drinktitle"><h1>{{this.drinks[iddrink-1].nome}}</h1></div>
+
+      <img class="drinkimage" src="assets/img/{{this.drinksdata[iddrink-1].immagine}}">
+     
+     
+
+  </div>
+        
+ 
+
+  <div class="drinkdescr ui container" [innerHtml]="this.drinksdata[iddrink-1].testo"></div>
+
+  
+</div>

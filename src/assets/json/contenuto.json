@@ -1,0 +1,387 @@
+[
+  {
+    "Id": 1,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Alexander_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Alexander_(cocktail)&prop=pageimages&format=json&pithumbsize=500"
+  },
+  {
+    "Id": 2,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Americano_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Americano_(cocktail)&prop=pageimages&format=json&pithumbsize=501"
+  },
+  {
+    "Id": 3,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Angel_Face_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Angel_Face_(cocktail)&prop=pageimages&format=json&pithumbsize=502"
+  },
+  {
+    "Id": 4,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Aviation_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Aviation_(cocktail)&prop=pageimages&format=json&pithumbsize=503"
+  },
+  {
+    "Id": 5,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Bacardi_cocktail",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Bacardi_cocktail&prop=pageimages&format=json&pithumbsize=504"
+  },
+  {
+    "Id": 6,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Between_the_Sheets",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Between_the_Sheets&prop=pageimages&format=json&pithumbsize=505"
+  },
+  {
+    "Id": 7,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Casino_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Casino_(cocktail)&prop=pageimages&format=json&pithumbsize=506"
+  },
+  {
+    "Id": 8,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Clover_Club",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Clover_Club&prop=pageimages&format=json&pithumbsize=507"
+  },
+  {
+    "Id": 9,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Daiquiri",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Daiquiri&prop=pageimages&format=json&pithumbsize=508"
+  },
+  {
+    "Id": 10,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Derby_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Derby_(cocktail)&prop=pageimages&format=json&pithumbsize=509"
+  },
+  {
+    "Id": 11,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Martini_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Martini_(cocktail)&prop=pageimages&format=json&pithumbsize=510"
+  },
+  {
+    "Id": 12,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Gin_Fizz",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Gin_Fizz&prop=pageimages&format=json&pithumbsize=511"
+  },
+  {
+    "Id": 13,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=John_Collins_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=John_Collins_(cocktail)&prop=pageimages&format=json&pithumbsize=512"
+  },
+  {
+    "Id": 14,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Manhattan_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Manhattan_(cocktail)&prop=pageimages&format=json&pithumbsize=513"
+  },
+  {
+    "Id": 15,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Mary_Pickford_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Mary_Pickford_(cocktail)&prop=pageimages&format=json&pithumbsize=514"
+  },
+  {
+    "Id": 16,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Monkey_Gland",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Monkey_Gland&prop=pageimages&format=json&pithumbsize=515"
+  },
+  {
+    "Id": 17,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Negroni",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Negroni&prop=pageimages&format=json&pithumbsize=516"
+  },
+  {
+    "Id": 18,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Old_Fashioned",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Old_Fashioned&prop=pageimages&format=json&pithumbsize=517"
+  },
+  {
+    "Id": 19,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Paradise_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Paradise_(cocktail)&prop=pageimages&format=json&pithumbsize=518"
+  },
+  {
+    "Id": 20,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Planters_Punch",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Planters_Punch&prop=pageimages&format=json&pithumbsize=519"
+  },
+  {
+    "Id": 21,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Porto_flip",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Porto_flip&prop=pageimages&format=json&pithumbsize=520"
+  },
+  {
+    "Id": 22,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Ramos_Gin_Fizz",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Ramos_Gin_Fizz&prop=pageimages&format=json&pithumbsize=521"
+  },
+  {
+    "Id": 23,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Rusty_Nail_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Rusty_Nail_(cocktail)&prop=pageimages&format=json&pithumbsize=522"
+  },
+  {
+    "Id": 24,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Sazerac",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Sazerac&prop=pageimages&format=json&pithumbsize=523"
+  },
+  {
+    "Id": 25,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Screwdriver",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Screwdriver&prop=pageimages&format=json&pithumbsize=524"
+  },
+  {
+    "Id": 26,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Sidecar_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Sidecar_(cocktail)&prop=pageimages&format=json&pithumbsize=525"
+  },
+  {
+    "Id": 27,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Stinger_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Stinger_(cocktail)&prop=pageimages&format=json&pithumbsize=526"
+  },
+  {
+    "Id": 28,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Tuxedo_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Tuxedo_(cocktail)&prop=pageimages&format=json&pithumbsize=527"
+  },
+  {
+    "Id": 29,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Whiskey_Sour",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Whiskey_Sour&prop=pageimages&format=json&pithumbsize=528"
+  },
+  {
+    "Id": 30,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=White_lady",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=White_lady&prop=pageimages&format=json&pithumbsize=529"
+  },
+  {
+    "Id": 31,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Bellini_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Bellini_(cocktail)&prop=pageimages&format=json&pithumbsize=530"
+  },
+  {
+    "Id": 32,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Black_Russian",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Black_Russian&prop=pageimages&format=json&pithumbsize=531"
+  },
+  {
+    "Id": 33,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Bloody_Mary",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Bloody_Mary&prop=pageimages&format=json&pithumbsize=532"
+  },
+  {
+    "Id": 34,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Caipirinha",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Caipirinha&prop=pageimages&format=json&pithumbsize=533"
+  },
+  {
+    "Id": 35,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Cocktail_champagne",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Cocktail_champagne&prop=pageimages&format=json&pithumbsize=534"
+  },
+  {
+    "Id": 36,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Cosmopolitan_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Cosmopolitan_(cocktail)&prop=pageimages&format=json&pithumbsize=535"
+  },
+  {
+    "Id": 37,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Cuba_libre",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Cuba_libre&prop=pageimages&format=json&pithumbsize=536"
+  },
+  {
+    "Id": 38,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=French_75",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=French_75&prop=pageimages&format=json&pithumbsize=537"
+  },
+  {
+    "Id": 39,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=French_Connection_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=French_Connection_(cocktail)&prop=pageimages&format=json&pithumbsize=538"
+  },
+  {
+    "Id": 40,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Godfather",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Godfather&prop=pageimages&format=json&pithumbsize=539"
+  },
+  {
+    "Id": 41,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Godmother",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Godmother&prop=pageimages&format=json&pithumbsize=540"
+  },
+  {
+    "Id": 42,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Golden_dream",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Golden_dream&prop=pageimages&format=json&pithumbsize=541"
+  },
+  {
+    "Id": 43,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Grasshopper_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Grasshopper_(cocktail)&prop=pageimages&format=json&pithumbsize=542"
+  },
+  {
+    "Id": 44,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Harvey_Wallbanger",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Harvey_Wallbanger&prop=pageimages&format=json&pithumbsize=543"
+  },
+  {
+    "Id": 45,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Hemingway_Special",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Hemingway_Special&prop=pageimages&format=json&pithumbsize=544"
+  },
+  {
+    "Id": 46,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Horses_Neck",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Horses_Neck&prop=pageimages&format=json&pithumbsize=545"
+  },
+  {
+    "Id": 47,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Irish_coffee",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Irish_coffee&prop=pageimages&format=json&pithumbsize=546"
+  },
+  {
+    "Id": 48,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Kir_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Kir_(cocktail)&prop=pageimages&format=json&pithumbsize=547"
+  },
+  {
+    "Id": 49,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Long_Island_Iced_Tea",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Long_Island_Iced_Tea&prop=pageimages&format=json&pithumbsize=548"
+  },
+  {
+    "Id": 50,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Mai_Tai",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Mai_Tai&prop=pageimages&format=json&pithumbsize=549"
+  },
+  {
+    "Id": 51,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Margarita_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Margarita_(cocktail)&prop=pageimages&format=json&pithumbsize=550"
+  },
+  {
+    "Id": 52,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Mimosa_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Mimosa_(cocktail)&prop=pageimages&format=json&pithumbsize=551"
+  },
+  {
+    "Id": 53,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Mojito",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Mojito&prop=pageimages&format=json&pithumbsize=552"
+  },
+  {
+    "Id": 54,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Moscow_mule",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Moscow_mule&prop=pageimages&format=json&pithumbsize=553"
+  },
+  {
+    "Id": 55,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Mint_Julep",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Mint_Julep&prop=pageimages&format=json&pithumbsize=554"
+  },
+  {
+    "Id": 56,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Pi%uFFFDa_Colada",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Pi%uFFFDa_Colada&prop=pageimages&format=json&pithumbsize=555"
+  },
+  {
+    "Id": 57,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Rose_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Rose_(cocktail)&prop=pageimages&format=json&pithumbsize=556"
+  },
+  {
+    "Id": 58,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Sea_Breeze",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Sea_Breeze&prop=pageimages&format=json&pithumbsize=557"
+  },
+  {
+    "Id": 59,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Sex_on_the_Beach",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Sex_on_the_Beach&prop=pageimages&format=json&pithumbsize=558"
+  },
+  {
+    "Id": 60,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Singapore_Sling",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Singapore_Sling&prop=pageimages&format=json&pithumbsize=559"
+  },
+  {
+    "Id": 61,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Tequila_Sunrise_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Tequila_Sunrise_(cocktail)&prop=pageimages&format=json&pithumbsize=560"
+  },
+  {
+    "Id": 62,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Barracuda_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Barracuda_(cocktail)&prop=pageimages&format=json&pithumbsize=561"
+  },
+  {
+    "Id": 63,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Bramble",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Bramble&prop=pageimages&format=json&pithumbsize=562"
+  },
+  {
+    "Id": 64,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=B-52_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=B-52_(cocktail)&prop=pageimages&format=json&pithumbsize=563"
+  },
+  {
+    "Id": 65,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Dark_n_Stormy",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Dark_n_Stormy&prop=pageimages&format=json&pithumbsize=564"
+  },
+  {
+    "Id": 66,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Dirty_Martini",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Dirty_Martini&prop=pageimages&format=json&pithumbsize=565"
+  },
+  {
+    "Id": 67,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Espresso_Martini",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Espresso_Martini&prop=pageimages&format=json&pithumbsize=566"
+  },
+  {
+    "Id": 68,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=French_Martini",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=French_Martini&prop=pageimages&format=json&pithumbsize=567"
+  },
+  {
+    "Id": 69,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Kamikaze_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Kamikaze_(cocktail)&prop=pageimages&format=json&pithumbsize=568"
+  },
+  {
+    "Id": 70,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Lemon_Drop_Martini",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Lemon_Drop_Martini&prop=pageimages&format=json&pithumbsize=569"
+  },
+  {
+    "Id": 71,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Pisco_sour",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Pisco_sour&prop=pageimages&format=json&pithumbsize=570"
+  },
+  {
+    "Id": 72,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Russian_Spring_Punch",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Russian_Spring_Punch&prop=pageimages&format=json&pithumbsize=571"
+  },
+  {
+    "Id": 73,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Spritz",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Spritz&prop=pageimages&format=json&pithumbsize=572"
+  },
+  {
+    "Id": 74,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Margarita_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Margarita_(cocktail)&prop=pageimages&format=json&pithumbsize=573"
+  },
+  {
+    "Id": 75,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Vampiro_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Vampiro_(cocktail)&prop=pageimages&format=json&pithumbsize=574"
+  },
+  {
+    "Id": 76,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Vesper_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Vesper_(cocktail)&prop=pageimages&format=json&pithumbsize=575"
+  },
+  {
+    "Id": 77,
+    "Contenuto": "https://it.wikipedia.org/w/api.php?action=query&prop=extracts&format=json&exsectionformat=plain&exsentences=10&titles=Yellow_Bird_(cocktail)",
+    "Immagine": "https://it.wikipedia.org/w/api.php?action=query&titles=Yellow_Bird_(cocktail)&prop=pageimages&format=json&pithumbsize=200"
+  }
+]

@@ -1,0 +1,78 @@
+id,nome,categoria,link
+1,Alexander,1,https://it.wikipedia.org/wiki/Alexander_(cocktail)
+2,Americano,1,https://it.wikipedia.org/wiki/Americano_(cocktail)
+3,Angel Face,1,https://it.wikipedia.org/wiki/Angel_Face_(cocktail)
+4,Aviation,1,https://it.wikipedia.org/wiki/Aviation_(cocktail)
+5,Bacardi,1,https://it.wikipedia.org/wiki/Bacardi_cocktail
+6,Between the Sheets,1,https://it.wikipedia.org/wiki/Between_the_Sheets
+7,Casino,1,https://it.wikipedia.org/wiki/Casino_(cocktail)
+8,Clover Club,1,https://it.wikipedia.org/wiki/Clover_Club
+9,Daiquiri,1,https://it.wikipedia.org/wiki/Daiquiri
+10,Derby,1,https://it.wikipedia.org/wiki/Derby_(cocktail)
+11,Dry Martini,1,https://it.wikipedia.org/wiki/Martini_(cocktail)
+12,Gin Fizz,1,https://it.wikipedia.org/wiki/Gin_Fizz
+13,John Collins,1,https://it.wikipedia.org/wiki/John_Collins_(cocktail)
+14,Manhattan,1,https://it.wikipedia.org/wiki/Manhattan_(cocktail)
+15,Mary Pickford,1,https://it.wikipedia.org/wiki/Mary_Pickford_(cocktail)
+16,Monkey Gland,1,https://it.wikipedia.org/wiki/Monkey_Gland
+17,Negroni,1,https://it.wikipedia.org/wiki/Negroni
+18,Old Fashioned,1,https://it.wikipedia.org/wiki/Old_Fashioned
+19,Paradise,1,https://it.wikipedia.org/wiki/Paradise_(cocktail)
+20,Planter's Punch,1,https://it.wikipedia.org/wiki/Planters_Punch
+21,Porto flip,1,https://it.wikipedia.org/wiki/Porto_flip
+22,Ramos Gin Fizz,1,https://it.wikipedia.org/wiki/Ramos_Gin_Fizz
+23,Rusty Nail,1,https://it.wikipedia.org/wiki/Rusty_Nail_(cocktail)
+24,Sazerac,1,https://it.wikipedia.org/wiki/Sazerac
+25,Screwdriver,1,https://it.wikipedia.org/wiki/Screwdriver
+26,Sidecar,1,https://it.wikipedia.org/wiki/Sidecar_(cocktail)
+27,Stinger,1,https://it.wikipedia.org/wiki/Stinger_(cocktail)
+28,Tuxedo,1,https://it.wikipedia.org/wiki/Tuxedo_(cocktail)
+29,Whiskey Sour,1,https://it.wikipedia.org/wiki/Whiskey_Sour
+30,White lady,1,https://it.wikipedia.org/wiki/White_lady 
+31,Bellini,2,https://it.wikipedia.org/wiki/Bellini_(cocktail)
+32,Black Russian,2,https://it.wikipedia.org/wiki/Black_Russian
+33,Bloody Mary,2,https://it.wikipedia.org/wiki/Bloody_Mary
+34,Caipirinha,2,https://it.wikipedia.org/wiki/Caipirinha
+35,Champagne Cocktail,2,https://it.wikipedia.org/wiki/Cocktail_champagne
+36,Cosmopolitan,2,https://it.wikipedia.org/wiki/Cosmopolitan_(cocktail)
+37,Cuba libre,2,https://it.wikipedia.org/wiki/Cuba_libre
+38,French 75,2,https://it.wikipedia.org/wiki/French_75
+39,French Connection,2,https://it.wikipedia.org/wiki/French_Connection_(cocktail)
+40,Godfather,2,https://it.wikipedia.org/wiki/Godfather
+41,Godmother,2,https://it.wikipedia.org/wiki/Godmother
+42,Golden dream,2,https://it.wikipedia.org/wiki/Golden_dream
+43,Grasshopper,2,https://it.wikipedia.org/wiki/Grasshopper_(cocktail)
+44,Harvey Wallbanger,2,https://it.wikipedia.org/wiki/Harvey_Wallbanger
+45,Hemingway Special,2,https://it.wikipedia.org/wiki/Hemingway_Special
+46,Horse's Neck,2,https://it.wikipedia.org/wiki/Horses_Neck
+47,Irish coffee,2,https://it.wikipedia.org/wiki/Irish_coffee
+48,Kir,2,https://it.wikipedia.org/wiki/Kir_(cocktail)
+49,Long Island Iced Tea,2,https://it.wikipedia.org/wiki/Long_Island_Iced_Tea
+50,Mai Tai,2,https://it.wikipedia.org/wiki/Mai_Tai
+51,Margarita,2,https://it.wikipedia.org/wiki/Margarita_(cocktail)
+52,Mimosa,2,https://it.wikipedia.org/wiki/Mimosa_(cocktail)
+53,Mojito,2,https://it.wikipedia.org/wiki/Mojito
+54,Moscow mule,2,https://it.wikipedia.org/wiki/Moscow_mule
+55,Mint Julep,2,https://it.wikipedia.org/wiki/Mint_Julep
+56,Piña Colada,2,https://it.wikipedia.org/wiki/Piña_Colada
+57,Rose,2,https://it.wikipedia.org/wiki/Rose_(cocktail)
+58,Sea Breeze,2,https://it.wikipedia.org/wiki/Sea_Breeze
+59,Sex on the Beach,2,https://it.wikipedia.org/wiki/Sex_on_the_Beach
+60,Singapore Sling,2,https://it.wikipedia.org/wiki/Singapore_Sling
+61,Tequila Sunrise,2,https://it.wikipedia.org/wiki/Tequila_Sunrise_(cocktail) 
+62,Barracuda,3,https://it.wikipedia.org/wiki/Barracuda_(cocktail)
+63,Bramble,3,https://it.wikipedia.org/wiki/Bramble
+64,B-52,3,https://it.wikipedia.org/wiki/B-52_(cocktail)
+65,Dark 'n' Stormy,3,https://it.wikipedia.org/wiki/Dark_n_Stormy
+66,Dirty Martini,3,https://it.wikipedia.org/wiki/Dirty_Martini
+67,Espresso Martini,3,https://it.wikipedia.org/wiki/Espresso_Martini
+68,French Martini,3,https://it.wikipedia.org/wiki/French_Martini
+69,Kamikaze,3,https://it.wikipedia.org/wiki/Kamikaze_(cocktail)
+70,Lemon Drop Martini,3,https://it.wikipedia.org/wiki/Lemon_Drop_Martini
+71,Pisco sour,3,https://it.wikipedia.org/wiki/Pisco_sour
+72,Russian Spring Punch,3,https://it.wikipedia.org/wiki/Russian_Spring_Punch
+73,Spritz Veneziano,3,https://it.wikipedia.org/wiki/Spritz
+74,Tommy's Margarita,3,https://it.wikipedia.org/wiki/Margarita_(cocktail)
+75,Vampiro,3,https://it.wikipedia.org/wiki/Vampiro_(cocktail)
+76,Vesper,3,https://it.wikipedia.org/wiki/Vesper_(cocktail)
+77,Yellow Bird,3,https://it.wikipedia.org/wiki/Yellow_Bird_(cocktail) 

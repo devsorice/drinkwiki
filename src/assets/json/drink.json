@@ -1,0 +1,464 @@
+[
+  {
+        "id": 1,
+        "nome": "Alexander",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Alexander_(cocktail)"
+      },
+      {
+        "id": 2,
+        "nome": "Americano",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Americano_(cocktail)"
+      },
+      {
+        "id": 3,
+        "nome": "Angel Face",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Angel_Face_(cocktail)"
+      },
+      {
+        "id": 4,
+        "nome": "Aviation",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Aviation_(cocktail)"
+      },
+      {
+        "id": 5,
+        "nome": "Bacardi",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Bacardi_cocktail"
+      },
+      {
+        "id": 6,
+        "nome": "Between the Sheets",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Between_the_Sheets"
+      },
+      {
+        "id": 7,
+        "nome": "Casino",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Casino_(cocktail)"
+      },
+      {
+        "id": 8,
+        "nome": "Clover Club",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Clover_Club"
+      },
+      {
+        "id": 9,
+        "nome": "Daiquiri",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Daiquiri"
+      },
+      {
+        "id": 10,
+        "nome": "Derby",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Derby_(cocktail)"
+      },
+      {
+        "id": 11,
+        "nome": "Dry Martini",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Martini_(cocktail)"
+      },
+      {
+        "id": 12,
+        "nome": "Gin Fizz",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Gin_Fizz"
+      },
+      {
+        "id": 13,
+        "nome": "John Collins",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/John_Collins_(cocktail)"
+      },
+      {
+        "id": 14,
+        "nome": "Manhattan",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Manhattan_(cocktail)"
+      },
+      {
+        "id": 15,
+        "nome": "Mary Pickford",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Mary_Pickford_(cocktail)"
+      },
+      {
+        "id": 16,
+        "nome": "Monkey Gland",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Monkey_Gland"
+      },
+      {
+        "id": 17,
+        "nome": "Negroni",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Negroni"
+      },
+      {
+        "id": 18,
+        "nome": "Old Fashioned",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Old_Fashioned"
+      },
+      {
+        "id": 19,
+        "nome": "Paradise",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Paradise_(cocktail)"
+      },
+      {
+        "id": 20,
+        "nome": "Planter's Punch",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Planters_Punch"
+      },
+      {
+        "id": 21,
+        "nome": "Porto flip",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Porto_flip"
+      },
+      {
+        "id": 22,
+        "nome": "Ramos Gin Fizz",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Ramos_Gin_Fizz"
+      },
+      {
+        "id": 23,
+        "nome": "Rusty Nail",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Rusty_Nail_(cocktail)"
+      },
+      {
+        "id": 24,
+        "nome": "Sazerac",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Sazerac"
+      },
+      {
+        "id": 25,
+        "nome": "Screwdriver",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Screwdriver"
+      },
+      {
+        "id": 26,
+        "nome": "Sidecar",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Sidecar_(cocktail)"
+      },
+      {
+        "id": 27,
+        "nome": "Stinger",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Stinger_(cocktail)"
+      },
+      {
+        "id": 28,
+        "nome": "Tuxedo",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Tuxedo_(cocktail)"
+      },
+      {
+        "id": 29,
+        "nome": "Whiskey Sour",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/Whiskey_Sour"
+      },
+      {
+        "id": 30,
+        "nome": "White lady",
+        "categoria": 1,
+        "link": "https://it.wikipedia.org/wiki/White_lady"
+      },
+      {
+        "id": 31,
+        "nome": "Bellini",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Bellini_(cocktail)"
+      },
+      {
+        "id": 32,
+        "nome": "Black Russian",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Black_Russian"
+      },
+      {
+        "id": 33,
+        "nome": "Bloody Mary",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Bloody_Mary"
+      },
+      {
+        "id": 34,
+        "nome": "Caipirinha",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Caipirinha"
+      },
+      {
+        "id": 35,
+        "nome": "Champagne Cocktail",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Cocktail_champagne"
+      },
+      {
+        "id": 36,
+        "nome": "Cosmopolitan",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Cosmopolitan_(cocktail)"
+      },
+      {
+        "id": 37,
+        "nome": "Cuba libre",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Cuba_libre"
+      },
+      {
+        "id": 38,
+        "nome": "French 75",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/French_75"
+      },
+      {
+        "id": 39,
+        "nome": "French Connection",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/French_Connection_(cocktail)"
+      },
+      {
+        "id": 40,
+        "nome": "Godfather",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Godfather"
+      },
+      {
+        "id": 41,
+        "nome": "Godmother",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Godmother"
+      },
+      {
+        "id": 42,
+        "nome": "Golden dream",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Golden_dream"
+      },
+      {
+        "id": 43,
+        "nome": "Grasshopper",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Grasshopper_(cocktail)"
+      },
+      {
+        "id": 44,
+        "nome": "Harvey Wallbanger",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Harvey_Wallbanger"
+      },
+      {
+        "id": 45,
+        "nome": "Hemingway Special",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Hemingway_Special"
+      },
+      {
+        "id": 46,
+        "nome": "Horse's Neck",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Horses_Neck"
+      },
+      {
+        "id": 47,
+        "nome": "Irish coffee",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Irish_coffee"
+      },
+      {
+        "id": 48,
+        "nome": "Kir",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Kir_(cocktail)"
+      },
+      {
+        "id": 49,
+        "nome": "Long Island Iced Tea",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Long_Island_Iced_Tea"
+      },
+      {
+        "id": 50,
+        "nome": "Mai Tai",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Mai_Tai"
+      },
+      {
+        "id": 51,
+        "nome": "Margarita",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Margarita_(cocktail)"
+      },
+      {
+        "id": 52,
+        "nome": "Mimosa",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Mimosa_(cocktail)"
+      },
+      {
+        "id": 53,
+        "nome": "Mojito",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Mojito"
+      },
+      {
+        "id": 54,
+        "nome": "Moscow mule",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Moscow_mule"
+      },
+      {
+        "id": 55,
+        "nome": "Mint Julep",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Mint_Julep"
+      },
+      {
+        "id": 56,
+        "nome": "Piña Colada",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Pi%C3%B1a_Colada"
+      },
+      {
+        "id": 57,
+        "nome": "Rose",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Rose_(cocktail)"
+      },
+      {
+        "id": 58,
+        "nome": "Sea Breeze",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Sea_Breeze"
+      },
+      {
+        "id": 59,
+        "nome": "Sex on the Beach",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Sex_on_the_Beach"
+      },
+      {
+        "id": 60,
+        "nome": "Singapore Sling",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Singapore_Sling"
+      },
+      {
+        "id": 61,
+        "nome": "Tequila Sunrise",
+        "categoria": 2,
+        "link": "https://it.wikipedia.org/wiki/Tequila_Sunrise_(cocktail)"
+      },
+      {
+        "id": 62,
+        "nome": "Barracuda",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Barracuda_(cocktail)"
+      },
+      {
+        "id": 63,
+        "nome": "Bramble",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Bramble"
+      },
+      {
+        "id": 64,
+        "nome": "B-52",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/B-52_(cocktail)"
+      },
+      {
+        "id": 65,
+        "nome": "Dark 'n' Stormy",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Dark_n_Stormy"
+      },
+      {
+        "id": 66,
+        "nome": "Dirty Martini",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Dirty_Martini"
+      },
+      {
+        "id": 67,
+        "nome": "Espresso Martini",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Espresso_Martini"
+      },
+      {
+        "id": 68,
+        "nome": "French Martini",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/French_Martini"
+      },
+      {
+        "id": 69,
+        "nome": "Kamikaze",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Kamikaze_(cocktail)"
+      },
+      {
+        "id": 70,
+        "nome": "Lemon Drop Martini",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Lemon_Drop_Martini"
+      },
+      {
+        "id": 71,
+        "nome": "Pisco sour",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Pisco_sour"
+      },
+      {
+        "id": 72,
+        "nome": "Russian Spring Punch",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Russian_Spring_Punch"
+      },
+      {
+        "id": 73,
+        "nome": "Spritz Veneziano",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Spritz"
+      },
+      {
+        "id": 74,
+        "nome": "Tommy's Margarita",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Margarita_(cocktail)"
+      },
+      {
+        "id": 75,
+        "nome": "Vampiro",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Vampiro_(cocktail)"
+      },
+      {
+        "id": 76,
+        "nome": "Vesper",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Vesper_(cocktail)"
+      },
+      {
+        "id": 77,
+        "nome": "Yellow Bird",
+        "categoria": 3,
+        "link": "https://it.wikipedia.org/wiki/Yellow_Bird_(cocktail)"
+      }
+]
