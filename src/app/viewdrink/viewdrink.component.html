@@ -1,9 +1,8 @@
-<div id="viewdrinkcontainer">
-
-   
 
 
-  <div class="titlecontainer" >
+<div *ngIf="active" id="viewdrinkcontainer" >
+
+<div class="titlecontainer" >
 
       <div id="bckhome"  (click)="backhome()" class="ui animated button" tabindex="0">
           <div class="visible content">Indietro</div>
@@ -23,6 +22,4 @@
  
 
   <div class="drinkdescr ui container" [innerHtml]="this.drinksdata[iddrink-1].testo"></div>
-
-  
 </div>

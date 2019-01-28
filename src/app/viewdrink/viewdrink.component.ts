@@ -8,28 +8,28 @@ import { LoaddrinkService } from '../loaddrink.service';
   templateUrl: './viewdrink.component.html',
   styleUrls: ['./viewdrink.component.css']
 })
-export class ViewdrinkComponent implements OnInit {
+export class ViewdrinkComponent implements OnInit 
+{
 
   @Output() bckhome: EventEmitter<any> = new EventEmitter<any>();
   @Input() iddrink:number;
+  @Input() drinks: Array<Drink>;
+  @Input() drinksdata: Array<Drinkdata>;
+  @Input() active:boolean;
   
-  loaddrink: LoaddrinkService = new LoaddrinkService();
-  
-  drinks: Array<Drink>;
-  drinksdata: Array<Drinkdata>;
-
-  constructor() { }
+  constructor() 
+  {
+  }
 
   ngOnInit()
-   { 
-      this.drinks = this.loaddrink.getDrinks();
-      this.drinksdata = this.loaddrink.getDrinkData();
-   }
+  { 
+      
+  }
 
   backhome()
   {
     this.bckhome.emit();
-   }
+  }
 
 
 }

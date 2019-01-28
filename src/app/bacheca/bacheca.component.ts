@@ -11,11 +11,14 @@ import { LoaddrinkService } from '../loaddrink.service';
 export class BachecaComponent implements OnInit {
   
   @Input() active:number;
+  @Input() drinkc:Array<Array<Drink>>;
   @Output() onViewDrink: EventEmitter<any> = new EventEmitter<any>();
   
-  drinkc: Array<Array<Drink>>;
-  loaddrink: LoaddrinkService = new LoaddrinkService();
-  
+
+  constructor() 
+  { 
+   
+  }
 
   public setactive(v:number)
   {
@@ -28,12 +31,8 @@ export class BachecaComponent implements OnInit {
   }
 
 
-  constructor() { }
-
-  
   ngOnInit() 
   {   
-    this.drinkc = this.loaddrink.getDrinkInfo();
   }
    
 
