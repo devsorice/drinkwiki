@@ -38,12 +38,12 @@ export class AppComponent
   viewdrink(v:number)
   {
     this.viewingdrink = v;
-    this.isviewdrink = true;
+    
     //$("#pag1").transition('horizontal flip');
    
     $("#listadrink").fadeOut();
     $("#viewdrink").fadeIn();
-    
+    this.isviewdrink = true;    
   }
 
   listdrink()
