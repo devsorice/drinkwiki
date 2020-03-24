@@ -45,6 +45,7 @@ export class LoaddrinkService
       this.drinks = response[0];  
 
       this.drinkc = new Array<Array<Drink>>();
+      this.drinkc[4] = this.drinks;
       this.drinkc[0] = new Array<Drink>();
       this.drinkc[1] = new Array<Drink>();
       this.drinkc[2] = new Array<Drink>();

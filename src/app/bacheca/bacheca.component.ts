@@ -12,6 +12,7 @@ export class BachecaComponent implements OnInit {
   
   @Input() active:number;
   @Input() drinkc:Array<Array<Drink>>;
+  @Input() drinks:Array<Drink>;
   @Output() onViewDrink: EventEmitter<any> = new EventEmitter<any>();
   
 
